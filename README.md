@@ -27,7 +27,7 @@ El proyecto implementa una arquitectura distribuida híbrida:
 6. La aplicación cliente valida el token con el servidor.
 7. Si es válido, se registra el detalle de la venta en la base de datos local.
 
-<img width="678" height="221" alt="image" src="https://github.com/user-attachments/assets/b1f9e614-41a3-4303-b590-a29061cf59b1" />
+<img width="678" height="221" alt="image" src="https://github.com/user-attachments/assets/540641ab-35ae-40f4-979e-ddfb869741be" />
 <img width="204" height="169" alt="image" src="https://github.com/user-attachments/assets/22a4f7d4-e7b1-4d66-8eda-44d40d102c0d" />
 <img width="583" height="634" alt="image" src="https://github.com/user-attachments/assets/c8915e41-0d3d-4921-a630-ec6f18b7847e" />
 <img width="590" height="493" alt="image" src="https://github.com/user-attachments/assets/cca17963-c883-46de-bbf7-cc4755889f00" />
