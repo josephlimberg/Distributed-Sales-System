@@ -15,6 +15,7 @@ El proyecto implementa una arquitectura distribuida híbrida:
 * **Base de Datos:** MySQL (Local y Cloud)
 
 ## Arquitectura
+<img width="861" height="522" alt="image" src="https://github.com/user-attachments/assets/6bae2197-cfa5-4cd1-96bf-0115722140bc" />
 
 
 ## Flujo de datos
