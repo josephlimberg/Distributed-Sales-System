@@ -1,0 +1,16 @@
+# Python (Servidor)
+servidor/__pycache__/
+servidor/venv/
+servidor/.env
+
+# Java (Cliente)
+cliente/*.class
+cliente/target/
+cliente/.settings/
+cliente/.classpath
+cliente/.project
+
+# Entornos e IDEs
+.vscode/
+.idea/
+*.iml
